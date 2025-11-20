@@ -10,10 +10,10 @@ export default defineConfig({
     sourcemap: false
   },
   server: {
-    port: 3000,
+    port: process.env.PORT || 3000,
     open: true
   },
   preview: {
-    port: 3000
+    port: process.env.PORT || 3000
   }
 })

@@ -40,7 +40,7 @@ Start the development server:
 npm run dev
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `https://ega-hrchatbot-ekcdetaudecnb7cs.canadacentral-01.azurewebsites.net/`
 
 ### Building for Production
 
